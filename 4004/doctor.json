@@ -1,11 +1,12 @@
 {
     "n_ordem": "4004",
-    "nome_completo": "Ricardo Oliveira",
+    "nome_completo": "Ricardo De Andrade",
     "bi": "76543210987",
     "licenciatura_em": "Medicina",
     "faculdade": "Universidade Nova de Lisboa",
     "genero": "Masculino",
     "data_nascimento": "1983-07-20",
     "especialidade": "Anestesiologia",
-    "acesso": "Trying"
+    "acesso": "Trying",
+    "email": "ricardo.andrade@kimuezo.com"
   }
