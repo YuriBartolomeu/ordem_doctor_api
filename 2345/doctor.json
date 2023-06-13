@@ -1,11 +1,12 @@
   {
     "n_ordem": "2345",
-    "nome_completo": "Sofia Martins",
+    "nome_completo": "Sofia Alejandro",
     "bi": "210987654",
     "licenciatura_em": "Medicina",
     "faculdade": "Universidade de Évora",
     "genero": "Feminino",
     "data_nascimento": "1987-09-25",
     "especialidade": "Psiquiatria",
-    "acesso": "Trying"
+    "acesso": "Trying",
+    "email": "sofia.alejandro@kimuezo.com"
   }
