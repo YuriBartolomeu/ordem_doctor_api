@@ -1,11 +1,12 @@
   {
     "n_ordem": "1234",
-    "nome_completo": "João Silva",
+    "nome_completo": "João Barros",
     "bi": "123456789",
     "licenciatura_em": "Medicina",
     "faculdade": "Universidade de Lisboa",
     "genero": "Masculino",
     "data_nascimento": "1980-01-01",
     "especialidade": "Cardiologia",
-    "acesso": "OlaMundo000"
+    "acesso": "OlaMundo000",
+    "email": "joao.barros@kimuezo.com"
   }
