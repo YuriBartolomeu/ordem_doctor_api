@@ -13,6 +13,9 @@ MP - Medico Psiquiatra/ Pediatra
 MR - Medico Radiologo
 MA - Medico Anastesiologo
 ME - Medico Endocrino
+
 Sintaxe do Número da Ordem:
-EspecialidadeNúmeroTurmaAno
+Especialidade[2]Número[4]Turma[2]Ano[2]
+
+Ex: MD0000AC12
 
